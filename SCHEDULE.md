@@ -3,7 +3,7 @@ Presentation Schedule
 *Only sign up during a lab period that you have been attending all semester. Students will be expected to do evaluations of projects during the lecture periods and (only) their assigned lab.*
 
 
-Monday, Decemberr 8th
+Monday, December 8th
 -------------------
 
   * 11:00 Lecture 1st - *Team*: 
