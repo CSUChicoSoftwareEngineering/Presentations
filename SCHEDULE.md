@@ -25,5 +25,5 @@ Wednesday, December 10th
   * 12:00 Lab 2nd - *Team*:
   * 1:00 Lab 1st - *Team*: 
   * 1:00 Lab 2nd - *Team*: 
-  * 4:00 Lab 1st - *Team*: 
+  * 4:00 Lab 1st - *Team*: Cheap Gas Finder 
   * 4:00 Lab 2nd - *Team*:
