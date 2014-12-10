@@ -24,6 +24,6 @@ Wednesday, December 10th
   * 12:00 Lab 1st - *Team*: MEANStack
   * 12:00 Lab 2nd - *Team*: quantumNote
   * 1:00 Lab 1st - *Team*: Spyral Narwhals
-  * 1:00 Lab 2nd - *Team*: Team Uncertain
+  * 1:00 Lab 2nd - *Team*: Team-Uncertain
   * 4:00 Lab 1st - *Team*: The Engineers (3DEx)
   * 4:00 Lab 2nd - *Team*: outbreak/birdseye
